@@ -6,11 +6,11 @@ O conceito de qualidade sempre esteve presente em todos os trabalhos que já exe
 
 <div align="center" style="display:line_block"><br>
   <a href="https://github.com/RosaMSS" style="margin:5px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EfraimNS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfraimNS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosaMSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaMSS&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
-![Snake animation](https://github.com/EfraimNS/EfraimNS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RosaMSS/RosaMSS/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## Dia a dia
